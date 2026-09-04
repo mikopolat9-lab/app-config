@@ -1,0 +1,14 @@
+{
+  "ad_config": {
+    "main_banner_ad": {
+      "is_active": true,
+      "ad_unit_id": "ca-app-pub-3940256099942544/6300978111",
+      "refresh_rate_seconds": 30
+    },
+    "interstitial_ad": {
+      "is_active": true,
+      "ad_unit_id": "ca-app-pub-3940256099942544/1033173712",
+      "search_limit": 4
+    }
+  }
+}
